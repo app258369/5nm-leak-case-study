@@ -16,7 +16,7 @@ This project presents a retrospective engineering analysis of a critical chemica
 In 2018, while serving as a Machine Leader for a TEL subcontractor, our team was under immense pressure to meet aggressive 5nm installation deadlines. During this phase, a major chemical leak occurred—a plant-wide critical incident that threatened project continuity.
 
 **The Confrontation & RCA**
-During the emergency 8D Root Cause Analysis (RCA) meeting, the narrative was initially steered toward "human operational error." To defend my team’s professional integrity, I retrieved the **original piping schematics** to perform a deep-dive structural analysis.
+During the emergency 8D Root Cause Analysis (RCA) meeting, the narrative was initially steered toward "human operational error." To defend my team’s professional integrity, I **requested the original piping schematics from the Japanese Manager** to perform a deep-dive structural analysis. This evidence-based approach successfully shifted the investigation from human factors to a systemic supply failure.
 
 **The "Smoking Gun"**
 I presented a decisive rebuttal based on three physical facts:
@@ -53,13 +53,13 @@ By proving the leak was a **mathematical certainty of design capacity** rather t
 2018 年，我擔任 TEL 下包商的 Machine Leader，負責 5nm 實驗機台安裝。當時因應客戶縮短工期的壓力，排程被極度壓縮，隨後發生了嚴重的藥液洩漏事故，成為當時廠區的關注焦點。
 
 **高壓對峙與根因分析 (RCA)**
-在當晚的 8D 失效分析會議中，初步定調傾向於現場人員的「人為操失」。為了守護團隊的專業清白，我連夜調閱**原始配管圖紙**，針對硬體架構進行深度拆解。
+在緊急召開的 8D 根因分析 (RCA) 會議中，討論起初被導向為「人為操作疏失」。為了捍衛團隊的專業聲譽，我向**日本主管要求調閱原始管線配置圖** (Piping Schematics) 並進行深層的結構化分析。這場以證據為基礎的分析成功將調查方向從人為因素轉回系統性的供應端失效。
 
 **關鍵證據 (The Smoking Gun)**
 我在會議中提出了三項具備物理強制力的證據：
 1.  **自動化紀錄**：洩漏發生於無人值守的自動化作業，且當時噴嘴清洗間隔剛被縮短。
 2.  **物理位置高度**：洩漏點源自機台高處溢流孔，物理上排除了人員在底部誤觸感測器的可能。
-3.  **結構性瓶頸**：我指出圖紙上的致命傷——**垂直組件 1 到 6 層共用同一條排放主管。**
+3.  **結構性瓶頸**：我指出圖紙上的致命傷——**垂直 1 到 6 層共用同一條排放主管。**
 
 透過證明該事故是**設計容量極限下的數學必然**，而非人為錯誤，我的團隊最終獲得清白。這份「勝利」不僅保護了團隊，也促成了這份將物理邏輯數位化的案例研究。
 
