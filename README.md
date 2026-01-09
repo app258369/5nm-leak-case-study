@@ -7,7 +7,7 @@
 
 <a name="english-version"></a>
 ## 📌 Project Overview (English)
-This project presents a retrospective engineering analysis of a critical chemical leak incident during the **2018 5nm experimental tool installation** phase in Taiwan. By abstracting field observations into a Python-based mass balance model, this case study demonstrates how to utilize **First-Principles Thinking** to resolve complex hardware failures and challenge conventional assumptions in high-pressure environments.
+This project presents a retrospective engineering analysis of a critical chemical leak incident during the **2018 TSMC 5nm experimental tool installation** phase in Taiwan. By abstracting field observations into a Python-based mass balance model, this case study demonstrates how to utilize **First-Principles Thinking** to resolve complex hardware failures and challenge conventional assumptions in high-pressure environments.
 
 ### 📖 The Story: Engineering Integrity & The "Absolute Victory"
 > *"If your sink drains at 100ml/s but you continuously pour in water at 120ml/s, what happens?"*
@@ -61,7 +61,7 @@ By proving the leak was a **mathematical certainty of design capacity** rather t
 2.  **物理位置高度**：洩漏點源自機台高處溢流孔，物理上排除了人員在底部誤觸感測器的可能。
 3.  **結構性瓶頸**：我指出圖紙上的致命傷——**垂直組件 1 到 6 層共用同一條排放主管。**
 
-透過證明該事故是**設計容量極限下的數學必然**，而非人為錯誤，我的團隊最終獲得清白。這份「絕對勝利」不僅保護了團隊，也促成了這份將物理邏輯數位化的案例研究。
+透過證明該事故是**設計容量極限下的數學必然**，而非人為錯誤，我的團隊最終獲得清白。這份「勝利」不僅保護了團隊，也促成了這份將物理邏輯數位化的案例研究。
 
 ---
 
