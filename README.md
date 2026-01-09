@@ -81,11 +81,13 @@ By proving the leak was a **mathematical certainty of design capacity** rather t
 
 ## 📊 Visualization & Analysis
 # 穩定性檢查核心代碼
-# 淨變化 = 每次循環溢流量 - (蒸發率 * 排程間隔)
 net_change_per_cycle = overflow_per_cycle - (evaporation_rate * interval_min)
 is_permanently_safe = net_change_per_cycle <= 0
+![Leak Case Sensor Threshold](Leak%20Case%20Sensor%20Threshold.png)
 
 
+# 淨變化 = 每次循環溢流量 - (蒸發率 * 排程間隔)
+![Leak Case Heatmap](Leak%20Case%20Heat%20map.png)
 ---
 
 ## 💻 Tech Stack
