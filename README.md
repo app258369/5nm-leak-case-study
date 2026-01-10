@@ -98,6 +98,5 @@ is_permanently_safe = net_change_per_cycle <= 0
 * **Methodology**: Physics-Informed Root Cause Analysis (RCA)
 
 ---
-
-© 2024 Your Name. All rights reserved. 
-*This case study is for portfolio demonstration purposes only.*
+> **Copyright (c) 2026 Alex Chen (Chen Yun Hsaing)** > Licensed under the MIT License.  
+>*This case study is for portfolio demonstration purposes only.*
